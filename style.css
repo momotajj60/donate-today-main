@@ -1,0 +1,379 @@
+.body {
+    font-family: open sans, sans-serif;
+}
+
+.back {
+    background-image: url(images/donation9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom:100px;
+    height:80vh;
+}
+.ami{
+margin-left: 300px;
+color: #FFFFFF;
+font-size: 65px;
+
+}
+
+.tap {
+    margin-top: 200px;
+    margin-left: 100px;
+    color: #FFFFFF;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.now-1 {
+    margin-left: 700px;
+    color: #FFFFFF;
+    width: 100px;
+    height: 40px;
+    background-color: #FF5959;
+    border-radius: 5px;
+    border: none;
+    margin-right: 325px;
+    margin-top: 30px;
+
+}
+
+.po {
+    margin-left: 668px;
+    color: #121212;
+    font-size: 40px;
+}
+
+.p {
+    margin-left: 590px;
+    color: #707070;
+    font-size: 14px;
+}
+
+.Taka {
+    display: flex;
+}
+.tk {
+    display: flex;
+    margin: 50px 407px 60px 407px;
+}
+
+.ONE {
+    list-style: none;
+    margin-left: 18px;
+    color: #707070;
+    background-color: #FAFAFA;
+    font-size: 30px;
+    font-weight: 600;
+    border-radius: 5px;
+    padding: 48px 18px;
+}
+
+.two {
+    list-style: none;
+    color: #FF5959;
+    background-color: #FFEEEE;
+    font-size: 30px;
+    font-weight: 600;
+    border-radius: 5px;
+    padding: 48px 18px;
+    margin-left: 5px;
+}
+
+.THREE {
+    list-style: none;
+    margin-left: 5px;
+    color: #707070;
+    background-color: #FAFAFA;
+    font-size: 30px;
+    font-weight: 600;
+    border-radius: 5px;
+    padding: 48px 18px;
+}
+
+.dis {
+    display: flex;
+}
+
+.four {
+    list-style: none;
+    margin-left: 5px;
+    color: #707070;
+    background-color: #FAFAFA;
+    font-size: 30px;
+    font-weight: 600;
+    border-radius: 5px;
+    padding: 48px 18px;
+}
+
+.five {
+    list-style: none;
+    margin-left: 5px;
+    color: #707070;
+    background-color: #FAFAFA;
+    font-size: 30px;
+    font-weight: 600;
+    border-radius: 5px;
+    padding: 48px 18px;
+}
+
+.Taka {
+    margin-left: 670px;
+    color: #DADADA;
+
+}
+
+.row {
+    margin-left: 450px;
+    margin-right: 390px;
+}
+
+.now-2 {
+    margin-left: 670px;
+    width: 150px;
+    height: 40px;
+    color: #FFFFFF;
+    background-color: #FF5959;
+    border: none;
+    border-radius: 5px;
+
+}
+
+.icons-1 {
+    background-color: #b4dadf;
+    /* margin: 50px 180px 0px 180px; */
+    /* margin-right: 100px;
+         margin-left: 250px; */
+    height: 250px;
+    width: 300px;
+    border-radius: 5px;
+
+    .c {
+        margin-left: 20px;
+        margin-top: 10px;
+    }
+
+}
+
+.Food {
+    margin-left: 18px;
+    font-size: 20px;
+
+}
+
+.eam {
+    margin-bottom: 100px;
+    margin-left: 18px;
+    color: #707070;
+    font-size: 15px;
+}
+
+.icons-2 {
+    height: 250px;
+    width: 300px;
+    border-radius: 5px;
+    background-color: #e8b7b7;
+
+     margin: 80px 180px 0px 180px;
+        margin-left: 600px;
+         margin-top: 0px;
+        } 
+    .D {
+        margin-left: 10px;
+        margin-top: 20px;
+    }
+
+    .Shelter {
+        margin-left: 18px;
+        font-size: 20px;
+    }
+
+    .jon {
+        margin-left: 18px;
+        color: #707070;
+        font-size: 15px;
+    }
+
+    .icons-3 {
+        height: 250px;
+        width: 300px;
+        background-color: #e8b7b7;
+        border-radius: 5px;
+        /* margin-left: 700px;
+    margin: 80px 180px 0px 180px; */
+    }
+
+    .E {
+        margin: 10px;
+        margin-top: 20px;
+    }
+
+    .child {
+        margin-left: 18px;
+        font-size: 20px;
+    }
+
+    .mollit {
+        margin-left: 18px;
+        color: #707070;
+        font-size: 14px;
+    }
+
+    .hat {
+        margin-left: 800px;
+        height: 287px;
+        width: 346px;
+        padding: 100px;
+        border-radius: 5px;
+    }
+
+    .lives {
+        color: #121212;
+        font-size: 40px;
+        bottom: 500px;
+    }
+
+    .usu o {
+        color: #cbc7c7;
+        font-size: 18px;
+        margin-left: 323px;
+    }
+
+    .usu t {
+        color: #707070;
+        font-size: 18px;
+        margin-left: 323px;
+    }
+
+    .to {
+        color: #FAFAFA;
+        background-color: #FF5959;
+        width: 180px;
+        height: 38px;
+        border: none;
+        border-radius: 5px;
+    }
+
+    .photo-2 {}
+
+    .F  {
+        margin: 700;
+        height: 477px;
+        width: 456px;
+        /* padding: 20px; */
+        display: block;
+        object-fit: cover;
+        /* margin-top: 70px;
+        padding-top: 50px; */
+        
+
+    }
+
+    .need {
+        margin-left: 652px;
+        font-size: 40px;
+    }
+
+    .cu {
+        margin-left: 652px;
+        color: #707070;
+        font-size: 18px;
+    }
+
+    .ca {
+        margin-left: 652px;
+        color: #707070;
+        font-size: 18px;
+    }
+
+    .con {
+        margin-left: 652px;
+        background-color: #FF5959;
+        color: #FFFFFF;
+        border-radius: 5px;
+        height: 38px;
+        width: 180px;
+        border: none;
+
+    }
+
+    .Get {
+        margin-left: 463px;
+        color: #121212;
+        font-size: 40px;
+    }
+
+    .dolor {
+        margin-left: 363px;
+        color: #707070;
+        font-size: 18px;
+    }
+
+    .TO {}
+
+    .from {
+        margin-left: 370px;
+
+
+    }
+
+    .finput {
+        border: none;
+        background-color: #eae0e0;
+        color: #707070;
+         height: 38px;
+        width: 150px;
+        border-radius: 5px;
+        margin-left: 20px;
+        align-items: center;
+
+    }
+
+    .BUT {
+        margin-left: 200px;
+        border: none;
+        background-color: #FF5959;
+        height: 38px;
+        color: #FAFAFA;
+        width: 147px;
+        border-radius: 5px;
+        align-items: center;
+    }
+
+    .foo {
+        background-color: #121212;
+        height: 150px;
+        width: 609;
+
+    }
+
+    .Hub {
+        margin-left: 650px;
+        font-style: italic;
+        color: #FF5959;
+
+    }
+
+    .I {
+        margin-left: 670px;
+        color: #707070;
+        margin-top: 70px;
+
+
+    }
+
+    .Plan {
+        margin-left: 630px;
+
+    }
+
+    .enim {
+        margin-left: 553px;
+        color: #707070;
+
+    }
+pat 
+
+{
+display: flex;
+
+}
